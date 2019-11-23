@@ -1,9 +1,9 @@
 # vaasu
 
 This Repository holds the code for Vaasu Project
-It is an Open source Project currently bring developed for Vidya Academy of Science and Technology by FossersVAST
+It is an Open source Project currently bring developed for Vidya Academy of Science and Technology 
 
-The attendence data is will be as recieved from the student's college ERP
+The attendence data is will be as recieied from the student's college ERP
 
 VAST students can use Vaasu bot to get the attendance details by login using their credentials
 
@@ -20,15 +20,12 @@ VIDYA ATTENDANCE BOT
 * * Get Password
 * * Refresh Data
 * * Subject wise attendence 
+* *User Interfaces which helps the student better understand the state of their attendance
 
 
-# MASTER Repository 
+# DEVELOPED BY
 
-you can find the original repository in the link
-
-https://github.com/FOSSersVAST/vaasu
-
-FossersVAST website
+FoOSSersVAST
 
 http://fossers.vidyaacademy.ac.in/
 
