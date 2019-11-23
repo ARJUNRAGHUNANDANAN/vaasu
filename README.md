@@ -25,7 +25,7 @@ VIDYA ATTENDANCE BOT
 
 # DEVELOPED BY
 
-FoOSSersVAST
+FOSSersVAST
 
 http://fossers.vidyaacademy.ac.in/
 
