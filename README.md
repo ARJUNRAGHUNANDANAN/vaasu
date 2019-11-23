@@ -20,7 +20,7 @@ VIDYA ATTENDANCE BOT
 * * Get Password
 * * Refresh Data
 * * Subject wise attendence 
-* *User Interfaces which helps the student better understand the state of their attendance
+* * User Interfaces which helps the student better understand the state of their attendance
 
 
 # DEVELOPED BY
